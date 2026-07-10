@@ -1,0 +1,8 @@
+Hi please improve previous design by keeping all original features adding additional features that 1. please create a wow agentic os web dashboard using google ADK (Google provides several useful tools for your agents. They include:
+
+Google Search (google_search): Allows the agent to perform web searches using Google Search. You simply add google_search to the agent's tools.
+
+Code Execution (built_in_code_execution): This tool allows the agent to execute code, to perform calculations, data manipulation, or interact with other systems programmatically. You can use the pre-built VertexCodeInterpreter or any code executor that implements the BaseCodeExecutor interface.) that user can paste, upload or select default skill.md. User can modify, download skill.md or ask(prompt) agnet (default gemini-3.1-flash-lite, user can select other models) to modify the skill.md. Then user try the skill in a skill playground that user can paste/upload docs (txt, csv, md, json, pdf) and paste, upload or select skill to use. User can compare results of different models (default gemini-3.1-flash-lite, user can select other models) or different skills. 
+
+Super, please keep all original features and adding additional feature that 1. Please adding wow visualization effects for llm execution, interactive indicators, live log and wow dashboard with 6 wow graph. 2.Use the default model 'gemini-3.1-flash-lite' (user can select other models and modify prompt). 3. Please let user to select light/dark themes, default Traditional Chinese/English, 10 styles based on panton color palette. 4.Please also adding 3 additional wow ai features to this app. Ending with 20 comprehensive follow up questions. 
+
